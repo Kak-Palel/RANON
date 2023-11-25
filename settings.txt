@@ -1,0 +1,6 @@
+High Score: 34
+Intro: 1
+FullScreen: 1
+HookingGuidePlatLength: 60
+hookingGuideGroundEnemLength: 5
+hookingGuideBulletLength: 20
